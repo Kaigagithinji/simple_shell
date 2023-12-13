@@ -1,3 +1,8 @@
+/**
+ * File: addnumbers.c
+ * Auth: Kaiga Githinji
+ */
+
 #include "shell.h"
 
 /**
@@ -15,4 +20,3 @@ int add_numbers(int a, int b)
 	sum = a + b;
 	return sum;
 }
-

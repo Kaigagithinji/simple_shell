@@ -13,6 +13,6 @@
 #include <sys/types.h>
 #include <sys/wait.h>
 
-int add_numbers(int a, int b)
+int add_numbers(int a, int b);
 
 #endif

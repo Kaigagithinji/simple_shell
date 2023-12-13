@@ -3,7 +3,7 @@
  * Auth: Kaiga Githinji
  */
 
-#include "shell.h"
+#include <stdio.h>
 
 /**
  * main - Entry point of the program

@@ -1,3 +1,5 @@
+#include "shell.h"
+
 /**
  * add_numbers - Adds two numbers
  * @a: First number
@@ -5,6 +7,7 @@
  * 
  * Return: Sum of a and b
  */
+
 int add_numbers(int a, int b)
 {
 	int sum;
